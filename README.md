@@ -28,7 +28,7 @@ Il PageRank è un algoritmo che assegna un punteggio a ciascun nodo in un grafo,
 
 La formula del PageRank può essere espressa come segue:
 
-$ PR(A) = (1 - d) + d \sum_{i=1}^{k} \frac{PR(B_i)}{C(B_i)} $
+$$ PR(A) = (1 - d) + d \sum_{i=1}^{k} \frac{PR(B_i)}{C(B_i)}$$
 
 Dove:
 - \( PR(A) \) è il PageRank della pagina A.
