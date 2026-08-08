@@ -366,9 +366,9 @@ At the end of the execution, the program releases:
 
 ## Purpose
 
-This project was developed as an exercise in implementing a computationally intensive graph algorithm while applying concepts related to **concurrent programming and synchronization**.
+This project was developed as an assigned project for the Laboratory II course exam, with the goal of implementing a computationally intensive graph algorithm while applying concepts related to concurrent programming and synchronization.
 
-The implementation provides practical experience with:
+The project provides practical experience with:
 
 * multithreading;
 * shared-memory parallelism;
@@ -379,8 +379,5 @@ The implementation provides practical experience with:
 * dynamic data structures;
 * iterative numerical algorithms.
 
-## Author
 
-**CorvoScuro27**
 
-GitHub: https://github.com/CorvoScuro27
